@@ -18,15 +18,25 @@ This assignment demonstrates:
 
 ## 📁 Project Folder Structure
 ├── docker-compose.yml
+
 ├── nginx/
+
 │ └── nginx.conf
+
 ├── service_1/
+
 │ ├── Dockerfile
+
 │ └── main.go
+
 ├── service_2/
+
 │ ├── Dockerfile
+
 │ ├── app.py
+
 │ └── requirements.txt
+
 
 
 ## 🧪 Build & Run
@@ -83,3 +93,8 @@ Big thanks to DPDzero for this hands-on and practical assignment.
 ![image](https://github.com/user-attachments/assets/32a9ab9e-34e4-4330-ae40-c414e9065d58)
 ![image](https://github.com/user-attachments/assets/0c613c06-2a0f-49ef-929f-374505bcfd51)
 ![image](https://github.com/user-attachments/assets/b3bc220b-9470-4802-aa16-338393f4208a)
+
+
+## Video demontration link 
+### https://drive.google.com/file/d/1XykCtWmVA2q0M4d8B4ARMbSbPKgdnWqi/view?usp=sharing
+
